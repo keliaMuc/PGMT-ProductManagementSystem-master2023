@@ -8,7 +8,7 @@ using Java and spring runtime and the database of the application is PostgreSQL 
 PostgreSQL allows for fast and efficient data manipulation.
 Visit the website https://github.com/keliaMuc/Product-Management-System-Program-.git and upon request you you will be faced with a Login page.
 Enter your username and password that you created. If you do not have an account, 
-bash Copy code spring.datasource.url=jdbc:postgresql://localhost:5433/test spring.datasource.username=your_username spring.datasource.password=your_password 
+bash Copy code spring.datasource.url=jdbc:postgresql://localhost:5433/test spring.datasource.username=kelia spring.datasource.password=kelia 
 Usage Open your web browser 
 and navigate to (http://localhost:2002/login).
 you can request one by clicking on the "Register" button and filling out the form with your details.
