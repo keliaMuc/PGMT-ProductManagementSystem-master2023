@@ -6,7 +6,7 @@ My project uses the different technologies ,The front-end of the application is 
 The front-end communicates with the back-end,the back-end of the application is developed 
 using Java and spring runtime and the database of the application is PostgreSQL database that stores data in flexible and schema-less documents.
 PostgreSQL allows for fast and efficient data manipulation.
-Visit the website https://github.com/keliaMuc/Product-Management-System-Program-.git and upon request you you will be faced with a Login page.
+Visit the website https://github.com/keliaMuc/PGMT-ProductManagementSystem-master2023 and upon request you you will be faced with a Login page.
 Enter your username and password that you created. If you do not have an account, 
 bash Copy code spring.datasource.url=jdbc:postgresql://localhost:5433/test spring.datasource.username=kelia spring.datasource.password=kelia 
 Usage Open your web browser 
